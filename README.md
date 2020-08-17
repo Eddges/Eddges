@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Eddges/Eddges/blob/master/Banner1.jpg" width="100%" />
 
 ### About me
-I am a senior undergrad student of Mathematics and Computing with some experience in Graphic Designing, Web Development, DevOps projects, 2D Game Development and 3D Modelling.
+I'm a senior undergrad student of Mathematics and Computing with some experience in Graphic Designing, Web Development, DevOps projects, 2D Game Development and 3D Modelling.
 
 #### 🔭 I’m currently working on
 
