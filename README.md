@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/Eddges/Eddges/blob/master/Banner1.jpg" width="100%" />
 
- 
 ### About me
 I am a senior undergrad student of Mathematics and Computing with some experience in Graphic Designing, Web Development, DevOps projects, 2D Game Development and 3D Modelling.
 
