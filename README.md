@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Eddges/Eddges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Eddges/Eddges/blob/master/Banner1.jpg" width="100%" />
-
+### Hi there 👋
 ### About me
 I'm a senior undergrad student of Mathematics and Computing with some experience in Graphic Designing, Web Development, DevOps projects, 2D Game Development and 3D Modelling.
 
