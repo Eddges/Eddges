@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Eddges/Eddges/blob/master/hacktober.gif" width="100%" />
+<img src="https://github.com/Eddges/Eddges/blob/master/Banner1.jpg" width="100%" />
 
 ### About me
 
