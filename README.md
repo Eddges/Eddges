@@ -22,8 +22,7 @@ I'm a senior undergrad student of Mathematics and Computing with some experience
 
 #### 🔭 I’m currently working on
 
-* Web Platform for CodeAsylums, Bengaluru
-* A bunch of Full Stack side projects and freelancing jobs
+* Open Observatory of Network Interference's (OONI) `probe-desktop`
 
 #### 🌱 I’m currently learning
 
