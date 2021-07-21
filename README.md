@@ -22,7 +22,7 @@ I'm a senior undergrad student of Mathematics and Computing with some experience
 
 #### 🔭 I’m currently working on
 
-* Open Observatory of Network Interference's (OONI) `probe-desktop`
+* Open Observatory of Network Interference's (OONI) `probe-desktop` application
 
 #### 🌱 I’m currently learning
 
